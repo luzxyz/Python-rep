@@ -10,4 +10,3 @@ will get longer, it's a simple but effective way to increase difficulty, risk an
 
 i followed a tutorial on the internet, which you can view in here: https://www.youtube.com/playlist?list=PLlEgNdBJEO-n8k9SR49AshB9j7b5Iw7hZ
 
-I'm not too familiar with github yet, so pardon my bad presentation.
